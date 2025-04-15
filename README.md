@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haneesha Aldena</h1>
 <h3 align="center">Full Stack Developer building scalable web solutions</h3><img src="https://th.bing.com/th/id/OIP.0b1gv6M0Xs5t3Rr3qqw-gQHaHa?pid=ImgDet&w=184&h=184&c=7&dpr=1.3" alt="Profile Picture" align="right" height="350" width="400"></img>
 
-<p align="left"> <img src="https://th.bing.com/th/id/OIP.0b1gv6M0Xs5t3Rr3qqw-gQHaHa?pid=ImgDet&w=184&h=184&c=7&dpr=1.3" alt="aldenahaneesha" /> </p>
-
 - 🔭 I’m currently working on **I’m currently working on Building full-stack applications with Java, React, and Spring Boot to improve my development skills and contribute to scalable web solutions.**
 
 - 🌱 I’m currently learning **Advanced Spring Boot + Microservices**
